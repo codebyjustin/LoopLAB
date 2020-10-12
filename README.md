@@ -1,3 +1,3 @@
 # LoopLAB
 Landing Page Built with Bootstrap 4
-![]https://raw.githubusercontent.com/codebyjustin/LoopLAB/main/demo.gif
+![](https://raw.githubusercontent.com/codebyjustin/LoopLAB/main/demo.gif)
